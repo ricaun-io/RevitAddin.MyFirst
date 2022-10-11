@@ -1,5 +1,7 @@
 # RevitAddin.MyFirst
 
+Creating a simple plugin for Revit using the ricaun.AppLoader and publish on GitHub with build automation to create the installation of the plugin and release it in Github.
+
 [![Revit 2021](https://img.shields.io/badge/Revit-2021+-blue.svg)](../..)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-2022-blue)](../..)
 [![Nuke](https://img.shields.io/badge/Nuke-Build-blue)](https://nuke.build/)
