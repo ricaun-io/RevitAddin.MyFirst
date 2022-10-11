@@ -13,8 +13,11 @@ namespace RevitAddin.MyFirst.Revit
         {
             ribbonPanel = application.CreatePanel("MyFirst");
             ribbonPanel.CreatePushButton<Commands.Command>()
-                .SetText("Hello")
+                .SetText("Walls\rChange")
+                .SetToolTip("Change all walls comments to wall name!")
+                .SetContextualHelp("http:\\ricaun.com")
                 .SetLargeImage(Properties.Resources.Revit.GetBitmapSource());
+
             return Result.Succeeded;
         }
 
