@@ -93,7 +93,7 @@
 
   <PropertyGroup>
     <PackageId>RevitAddin.MyFirst</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <ProjectGuid>{BB2720A5-D15D-49DE-8205-65B69F90A9D7}</ProjectGuid>
   </PropertyGroup>
 
